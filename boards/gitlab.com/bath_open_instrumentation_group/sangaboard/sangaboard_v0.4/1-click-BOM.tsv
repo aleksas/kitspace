@@ -1,0 +1,40 @@
+References	Qty	Description	Manufacturer	MPN	Digikey	Mouser	RS	Newark	Farnell	LCSC
+Y1	1	8MHz Crystal SMD 3225								C133366
+U5	1	CAT24C32								C81193
+U3, U4	2		Texas Instruments	ULN2003ADR						C7512
+U2	1	MCP1700-3302E								C39051
+U1	1	ATMEGA32U4-AU	Microchip	ATMEGA32U4-AU						C44854
+RV1, RV2	2	Varistor 0603								C20956
+RST1	1	Reset PinHeader 1x02 P2.54mm Vertical								
+R5, R8, R20	3	resistor 10K 0603								C25804
+R4, R3, R6, R7, R9, R10, R11, R12, R13, R16	10	resistor 22 0603								C22809
+R21, R22	2	resistor 3.9K 0603								C23018
+R19	1	DNP R 0603								
+R14, R15, R17, R18	4	resistor 1K 0805								C17513
+R1, R2	2	resistor 1.5K 0805								C4310
+Q3, Q4, Q6, Q8	4	DMG2305UX	Diodes Inc.	DMG2305UX-13						C144153
+Q1, Q2, Q5, Q7	4	DMMT5401	Diodes Inc.	DMMT5401-7						C154733
+L1, L2	2	ferrite bead 0805	TDK	MPZ2012S601A					1669753	C1017
+J9	1	I/O PinHeader 2x06 P2.54mm Vertical								
+J8	1	ULN AUX PinSocket 2x04 P2.54mm Vertical								
+J7	1	J AUX PinHeader 2x02 P2.54mm Vertical								
+J6	1	ISP Pin Header 2x03 2.54mm Vertical								
+J5	1	Serial Header PinHeader 2x02 P2.54mm Vertical								
+J4	1	I2C Header PinHeader 2x02 P2.54mm Vertical								
+J3	1	END STOPS PinHeader 2x03 P2.54mm Vertical								
+J15	1	EEPROM-raspberrypi hat EEPROM-raspberrypi hat								
+J14	1	Power&Serial-raspberrypi hat PinSocket 2x05 P2.54mm Vertical								
+J13	1	CONN 01X02 PinHeader 1x02 P2.54mm Vertical								
+J10, J11, J12	1	B5B-XH-A	JST	B5B-XH-A						C161872
+J1, J2	2	USB Micro-B	Molex	105017-0001						C136000
+F2	1	3A Polyfuse 1210								C315895
+F1, F3, F4, F5	4	1A Polyfuse 1206								C369154
+D5	1	led YELLOW 0805								C2296
+D4	1	led GREEN 0805								C2297
+D3	1	led BLUE 0805								C2293
+D2	1	led RED 0805								C84256
+D1	1	CD1206-S01575								C75465
+C8, C9, C14, C15	4	capacitor 1uF 0805								C28323
+C2, C3	2	capacitor 22pF 0805								C1804
+C12, C11, C5, C4	4	capacitor 10uF 0805								C15850
+C1, C6, C7, C10, C13	5	capacitor 100nF 0805								C49678

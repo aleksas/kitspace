@@ -1,0 +1,135 @@
+@import url(/semantic.min.css);
+html,
+head,
+body {
+  margin: 0; }
+
+body {
+  font-family: 'Noto Sans','Helvetica', 'Arial', sans-serif;
+  font-size: 16px;
+  overflow-y: scroll; }
+
+a {
+  color: #373737;
+  font-weight: bold;
+  text-decoration: none;
+  cursor: pointer; }
+
+a:hover {
+  color: #373737;
+  text-decoration: underline; }
+
+.notSelectable {
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  cursor: default; }
+
+.titleBar {
+  padding: 10px;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background-color: #1b1b1b;
+  border-bottom-left-radius: 5;
+  border-bottom-right-radius: 5;
+  box-shadow: 0 0.1em 0.5em #1b1b1b;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  max-width: 100%;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  -webkit-justify-content: space-around;
+      -ms-flex-pack: distribute;
+          justify-content: space-around; }
+  .titleBar .ui.menu .item > a:hover {
+    text-decoration: none !important; }
+  .titleBar .rightButtonsContainer {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap; }
+  .titleBar .socialMenu {
+    margin-bottom: 0px !important; }
+  .titleBar .logoContainer {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-justify-content: flex-start;
+        -ms-flex-pack: start;
+            justify-content: flex-start;
+    z-index: 1;
+    -webkit-flex-shrink: 2;
+        -ms-flex-negative: 2;
+            flex-shrink: 2;
+    -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap; }
+  .titleBar .logoImg {
+    max-height: 46px;
+    min-width: 140px; }
+  .titleBar .submissionButton {
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+    background: #4caf50;
+    border: 0;
+    border-radius: 3px;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    font-family: 'Noto Sans','Helvetica', 'Arial', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 0;
+    margin-right: 8px;
+    min-width: 174px;
+    padding: 20px 15px;
+    white-space: nowrap; }
+  .titleBar .middleContainer {
+    -webkit-flex-grow: 2;
+        -ms-flex-positive: 2;
+            flex-grow: 2; }
+  .titleBar .addProjectButton {
+    margin-right: 8px; }
+  .titleBar .userButtonContainer {
+    min-width: 87px;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center; }
+  .titleBar .userDropContainer {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center; }
+  .titleBar .userDropContainer > i {
+    padding-left: 5px;
+    margin-top: -3px; }
+
+a.ui.card {
+  color: #373737;
+  font-weight: normal;
+  text-decoration: none;
+  cursor: pointer; }
+
+a.ui.card:hover {
+  color: #373737; }

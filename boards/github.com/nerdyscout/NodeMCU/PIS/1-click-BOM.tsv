@@ -1,0 +1,14 @@
+References	Qty	Description	Manufacturer	MPN	Digikey	Mouser	RS	Newark	Farnell	LCSC
+D1	1	1N4148 Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal								
+D2	1	LED LED_THT:LED_D5.0mm								
+J1	1	Capacitive Sensor Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical								
+J2	1	Conn_01x03 Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical								
+J4	1	Screw_Terminal_01x04 TerminalBlock_TE-Connectivity:TerminalBlock_TE_282834-4_1x04_P2.54mm_Horizontal								
+J5	1	Resistive Sensor Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical								
+K1	1	G5V-1 Relay_THT:Relay_SPDT_Omron_G5V-1								
+Q3 Q1	2	BC547 Package_TO_SOT_THT:TO-92_Inline		BC547-ND						
+R1 R2 R3	3	10k Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal								
+R4	1	100 Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal								
+U1	1	NodeMCU1.0(ESP-12E) Module:NodeMCU_Amica								
+U2	1	TSOP17xx OptoDevice:Vishay_CAST-3Pin								
+U4	1	DHT11 Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical		1528-1228-ND						

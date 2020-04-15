@@ -1,0 +1,7 @@
+References	Qty	Description	Manufacturer	MPN	Digikey	Mouser	RS	Newark	Farnell	LCSC
+J1;	1	USB connector	Amphenol	10104110-0001LF			7142344			
+J2;	1	BNC connector	Molex	73101-0400			7595274			
+C1;	1	1pF Capacitor	C315C109B5G5TA	Kemet			1463544			
+R1;	1	1Mohm Resistor	TE connectivity	LR1F1M0			149228			
+U1;	1	LM358 opamp	ON semiconductor	LM358DR2G			6896719			
+D1;	1	photodiode	Vishay	BPW21R			7082813			

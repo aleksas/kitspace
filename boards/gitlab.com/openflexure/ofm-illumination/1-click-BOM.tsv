@@ -1,0 +1,8 @@
+References	Qty	Description	Manufacturer	MPN	Digikey	Mouser	RS	Newark	Farnell	LCSC
+LED14, LED13, LED12, LED11, LED10, LED9, LED8, LED7, LED6, LED5, LED4, LED3, LED2, LED1	14	LED white 0402								
+D14, D13, D12, D11, D10, D9, D7, D5, D3, D1, D8, D6, D4, D2	14	NSI45020T1G	ON Semiconductor	NSI45020T1G						
+U1	1	MCP23008-E								
+J3, J2	2	Conn 01x04 Male Molex KK-254 AE-6410-04A 1x04 P2.54mm Vertical		22053041						
+R7, R6, R4, R2	4	10k 0805								
+C2	1	10uF 0805								
+C1	1	100nF 0805								
